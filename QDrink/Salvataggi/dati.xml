@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <birra nome="lager" marca="fosters" prezzo="0.700000" descrizione="birra australiana" scadenza="14/3/2030" quantita="15" grado_alcolico="5.000000" capacita="33" colore="bionda"/>
+    <vino nome="Alto Adige Moscato giallo DOC" marca="pfeffer" prezzo="12.200000" descrizione="Ottimo come aperitivo" scadenza="31/12/2022" quantita="5" grado_alcolico="12.500000" capacita="75" tipologia="moscato" regione="Alto Adige"/>
+    <birra nome="Erdinger" marca="Weizen" prezzo="0.800000" descrizione="birra weizen tedesca" scadenza="10/1/2021" quantita="7" grado_alcolico="4.600000" capacita="50" colore="chiara"/>
+    <tè nome="gyokuro" marca="La Via Del tè" prezzo="25.200000" descrizione="sapore vellutato e dolce" scadenza="26/3/2025" quantita="12" temperatura_infusione="70" aroma="note marine"/>
+    <birra nome="strong ale" marca="bulldog" prezzo="1.200000" descrizione="leggermente amara" scadenza="22/1/2023" quantita="6" grado_alcolico="6.200000" capacita="33" colore="scura"/>
+    <tè nome="Pai Mu Tan" marca="La Via del Tè" prezzo="9.900000" descrizione="tè bianco da grandi occasioni" scadenza="18/6/2021" quantita="8" temperatura_infusione="77" aroma="note di miele"/>
+    <vino nome="Dirupo" marca="Valdobbiadene" prezzo="8.330000" descrizione="vino da aperitivo" scadenza="2/5/2027" quantita="3" grado_alcolico="11.000000" capacita="75" tipologia="champagne" regione="valdobbiadene/italia"/>
+    <tè nome="MarygoldRose" marca="La Via del tè" prezzo="8.900000" descrizione="sapore soave e morbido, note sottili di miele e fiori" scadenza="1/6/2027" quantita="8" temperatura_infusione="55" aroma="Floreale"/>
+    <vino nome="Cà dei frati" marca="Rosa dei Frati" prezzo="10.000000" descrizione="si abbina con formaggi freschi e salumi" scadenza="1/1/2020" quantita="11" grado_alcolico="12.500000" capacita="75" tipologia="Rosè" regione="Italia/vino bresciano"/>
+    <birra nome="Heineken" marca="Heineken" prezzo="1.100000" descrizione="lager" scadenza="1/1/2005" quantita="5" grado_alcolico="4.500000" capacita="45" colore="bionda"/>
+    <tè nome="Infuso di frutti golosi" marca="Terza Luna" prezzo="3.500000" descrizione="ottimi mèlange di frutta" scadenza="7/3/2025" quantita="9" temperatura_infusione="100" aroma="frutti rossi speziati"/>
+    <birra nome="Oberdorfer Weisssbier" marca="Interbrau SpA" prezzo="3.150000" descrizione="prodotta in baviera" scadenza="1/7/2023" quantita="6" grado_alcolico="5.000000" capacita="75" colore="bionda"/>
+    <vino nome="Omnes Dies vigneti delle dolomiti" marca="Abbazia di Novacella" prezzo="7.060000" descrizione="Da abbinare con piatti vegetariani o a base di pesce" scadenza="7/5/2020" quantita="3" grado_alcolico="12.000000" capacita="75" tipologia="vino bianco" regione="Novacella/Alto Adige"/>
+</root>
